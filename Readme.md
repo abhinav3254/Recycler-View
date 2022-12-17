@@ -31,5 +31,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## ScreenShots
 
-<img src="images/img1.png" alt="android" height="500" width="200">
+<img src="images/img1.png" alt="android" height="500" width="300">
 
